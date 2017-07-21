@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/media/sys1159/backup/PracticeExamples/Sample_ITwdc/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e69edd1d05ad95ae092786ed365c19b917e4b3d9">
+        <dex dex="/media/sys1159/backup/PracticeExamples/Sample_ITwdc/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_7b19afc0099eae756ed0418f21c82563dfb3d16c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/sys1159/backup/PracticeExamples/Sample_ITwdc/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/media/sys1159/backup/PracticeExamples/Sample_ITwdc/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5b961a7643f3208a0545d07ea03eda78ac08a744/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sys1159/.gradle/caches/modules-2/files-2.1/com.itextpdf/itextpdf/5.3.2/a91f0461bde34f14b72a6f657e4a434950a069da/itextpdf-5.3.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a91f0461bde34f14b72a6f657e4a434950a069da">
+        <dex dex="/media/sys1159/backup/PracticeExamples/Sample_ITwdc/app/build/intermediates/pre-dexed/release/itextpdf-5.3.2_32913bf9ca7f188771452b918feeb59d1adce005.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sys1159/.gradle/caches/modules-2/files-2.1/com.itextpdf/itextpdf/5.3.2/a91f0461bde34f14b72a6f657e4a434950a069da/itextpdf-5.3.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a91f0461bde34f14b72a6f657e4a434950a069da">
+        <dex dex="/media/sys1159/backup/PracticeExamples/Sample_ITwdc/app/build/intermediates/transforms/dex/debug/folders/1000/10/itextpdf-5.3.2_32913bf9ca7f188771452b918feeb59d1adce005/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">IT-Winners DC</string>
+    <string name="comp_name">IT-WINNER SOLUTIONS</string>
+    <string name="comp_name1">www.itwinnersoulutions.com</string>
+    <string name="Address">Plot No. 600, HMT Hills,</string>
+    <string name="Address1">OPP.JNTU,Near Ramalayam,KPHB,</string>
+    <string name="Address2">Kukatpally,Hyderabad-500085,TS.</string>
+    <string name="Mobile">Phone:8099960600</string>
+    <string name="mail">Email: itwinnersolutions@gmail.com</string>
+    <string name="tin">TIN NO: 36743071722</string>
+</resources>
